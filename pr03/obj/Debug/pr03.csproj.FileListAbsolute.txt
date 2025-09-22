@@ -1,0 +1,7 @@
+D:\C#.NET\pr03\bin\Debug\pr03.exe.config
+D:\C#.NET\pr03\bin\Debug\pr03.exe
+D:\C#.NET\pr03\bin\Debug\pr03.pdb
+D:\C#.NET\pr03\obj\Debug\pr03.csproj.AssemblyReference.cache
+D:\C#.NET\pr03\obj\Debug\pr03.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr03\obj\Debug\pr03.exe
+D:\C#.NET\pr03\obj\Debug\pr03.pdb

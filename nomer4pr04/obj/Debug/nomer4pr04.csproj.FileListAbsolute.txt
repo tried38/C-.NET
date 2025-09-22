@@ -1,0 +1,7 @@
+D:\C#.NET\nomer4pr04\obj\Debug\nomer4pr04.csproj.AssemblyReference.cache
+D:\C#.NET\nomer4pr04\obj\Debug\nomer4pr04.csproj.CoreCompileInputs.cache
+D:\C#.NET\nomer4pr04\bin\Debug\nomer4pr04.exe.config
+D:\C#.NET\nomer4pr04\bin\Debug\nomer4pr04.exe
+D:\C#.NET\nomer4pr04\bin\Debug\nomer4pr04.pdb
+D:\C#.NET\nomer4pr04\obj\Debug\nomer4pr04.exe
+D:\C#.NET\nomer4pr04\obj\Debug\nomer4pr04.pdb

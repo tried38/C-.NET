@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\pr02_var18\pr02_var18\checkcode\bin\Debug\checkcode.exe.config
+C:\Users\user\Downloads\pr02_var18\pr02_var18\checkcode\bin\Debug\checkcode.exe
+C:\Users\user\Downloads\pr02_var18\pr02_var18\checkcode\bin\Debug\checkcode.pdb
+C:\Users\user\Downloads\pr02_var18\pr02_var18\checkcode\obj\Debug\checkcode.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\pr02_var18\pr02_var18\checkcode\obj\Debug\checkcode.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\pr02_var18\pr02_var18\checkcode\obj\Debug\checkcode.exe
+C:\Users\user\Downloads\pr02_var18\pr02_var18\checkcode\obj\Debug\checkcode.pdb

@@ -1,0 +1,7 @@
+D:\C#.NET\PR09\bin\Debug\PR09.exe.config
+D:\C#.NET\PR09\bin\Debug\PR09.exe
+D:\C#.NET\PR09\bin\Debug\PR09.pdb
+D:\C#.NET\PR09\obj\Debug\PR09.csproj.AssemblyReference.cache
+D:\C#.NET\PR09\obj\Debug\PR09.csproj.CoreCompileInputs.cache
+D:\C#.NET\PR09\obj\Debug\PR09.exe
+D:\C#.NET\PR09\obj\Debug\PR09.pdb

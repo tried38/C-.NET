@@ -1,0 +1,7 @@
+D:\C#.NET\tester codov228\bin\Debug\tester codov228.exe.config
+D:\C#.NET\tester codov228\bin\Debug\tester codov228.exe
+D:\C#.NET\tester codov228\bin\Debug\tester codov228.pdb
+D:\C#.NET\tester codov228\obj\Debug\tester codov228.csproj.AssemblyReference.cache
+D:\C#.NET\tester codov228\obj\Debug\tester codov228.csproj.CoreCompileInputs.cache
+D:\C#.NET\tester codov228\obj\Debug\tester codov228.exe
+D:\C#.NET\tester codov228\obj\Debug\tester codov228.pdb

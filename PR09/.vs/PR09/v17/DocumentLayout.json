@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#.NET\\PR09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF92302-2220-4699-A2CC-E2971F85035B}|PR09.csproj|d:\\c#.net\\pr09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF92302-2220-4699-A2CC-E2971F85035B}|PR09.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D169A8-A849-4C87-9E9A-24F0DC6A90CD}|..\\sdkgnsjkdhngsj\\sdkgnsjkdhngsj.csproj|d:\\c#.net\\sdkgnsjkdhngsj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\sdkgnsjkdhngsj\\Program.cs",
+              "RelativeDocumentMoniker": "..\\sdkgnsjkdhngsj\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\sdkgnsjkdhngsj\\Program.cs",
+              "RelativeToolTip": "..\\sdkgnsjkdhngsj\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:33:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\PR09\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#.NET\\PR09\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAuwLwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:39:29.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\C#.NET\test pr-21\bin\Debug\test pr-21.exe.config
+D:\C#.NET\test pr-21\bin\Debug\test pr-21.exe
+D:\C#.NET\test pr-21\bin\Debug\test pr-21.pdb
+D:\C#.NET\test pr-21\obj\Debug\test pr-21.csproj.AssemblyReference.cache
+D:\C#.NET\test pr-21\obj\Debug\test pr-21.csproj.CoreCompileInputs.cache
+D:\C#.NET\test pr-21\obj\Debug\test pr-21.exe
+D:\C#.NET\test pr-21\obj\Debug\test pr-21.pdb

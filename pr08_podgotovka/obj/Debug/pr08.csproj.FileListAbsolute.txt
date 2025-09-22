@@ -1,0 +1,7 @@
+D:\C#.NET\pr08\bin\Debug\pr08.exe.config
+D:\C#.NET\pr08\bin\Debug\pr08.exe
+D:\C#.NET\pr08\bin\Debug\pr08.pdb
+D:\C#.NET\pr08\obj\Debug\pr08.csproj.AssemblyReference.cache
+D:\C#.NET\pr08\obj\Debug\pr08.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr08\obj\Debug\pr08.exe
+D:\C#.NET\pr08\obj\Debug\pr08.pdb

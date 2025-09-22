@@ -1,0 +1,7 @@
+D:\C#.NET\pr07\bin\Debug\pr07.exe.config
+D:\C#.NET\pr07\bin\Debug\pr07.exe
+D:\C#.NET\pr07\bin\Debug\pr07.pdb
+D:\C#.NET\pr07\obj\Debug\pr07.csproj.AssemblyReference.cache
+D:\C#.NET\pr07\obj\Debug\pr07.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr07\obj\Debug\pr07.exe
+D:\C#.NET\pr07\obj\Debug\pr07.pdb

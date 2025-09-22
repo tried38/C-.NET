@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr_01", "pr_01\pr_01.csproj", "{DAD37E9B-4C0D-4D36-A408-0B41AF5ADD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treygolnik", "treygolnik\treygolnik.csproj", "{D58A9D2D-BE36-4143-9279-E4A049A6E396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kvadrat", "kvadrat\kvadrat.csproj", "{BC675B42-712D-4A9A-B913-C8BE386E56A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD37E9B-4C0D-4D36-A408-0B41AF5ADD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD37E9B-4C0D-4D36-A408-0B41AF5ADD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD37E9B-4C0D-4D36-A408-0B41AF5ADD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD37E9B-4C0D-4D36-A408-0B41AF5ADD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58A9D2D-BE36-4143-9279-E4A049A6E396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58A9D2D-BE36-4143-9279-E4A049A6E396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58A9D2D-BE36-4143-9279-E4A049A6E396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58A9D2D-BE36-4143-9279-E4A049A6E396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC675B42-712D-4A9A-B913-C8BE386E56A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC675B42-712D-4A9A-B913-C8BE386E56A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC675B42-712D-4A9A-B913-C8BE386E56A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC675B42-712D-4A9A-B913-C8BE386E56A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

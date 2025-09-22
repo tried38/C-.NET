@@ -1,0 +1,7 @@
+D:\C#.NET\fwefwefwefwef\bin\Debug\fwefwefwefwef.exe.config
+D:\C#.NET\fwefwefwefwef\bin\Debug\fwefwefwefwef.exe
+D:\C#.NET\fwefwefwefwef\bin\Debug\fwefwefwefwef.pdb
+D:\C#.NET\fwefwefwefwef\obj\Debug\fwefwefwefwef.csproj.AssemblyReference.cache
+D:\C#.NET\fwefwefwefwef\obj\Debug\fwefwefwefwef.csproj.CoreCompileInputs.cache
+D:\C#.NET\fwefwefwefwef\obj\Debug\fwefwefwefwef.exe
+D:\C#.NET\fwefwefwefwef\obj\Debug\fwefwefwefwef.pdb

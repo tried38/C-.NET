@@ -1,0 +1,10 @@
+D:\C#.NET\ПР18\bin\Debug\ПР18.exe.config
+D:\C#.NET\ПР18\bin\Debug\ПР18.exe
+D:\C#.NET\ПР18\bin\Debug\ПР18.pdb
+D:\C#.NET\ПР18\obj\Debug\ПР18.csproj.AssemblyReference.cache
+D:\C#.NET\ПР18\obj\Debug\ПР18.Form1.resources
+D:\C#.NET\ПР18\obj\Debug\ПР18.Properties.Resources.resources
+D:\C#.NET\ПР18\obj\Debug\ПР18.csproj.GenerateResource.cache
+D:\C#.NET\ПР18\obj\Debug\ПР18.csproj.CoreCompileInputs.cache
+D:\C#.NET\ПР18\obj\Debug\ПР18.exe
+D:\C#.NET\ПР18\obj\Debug\ПР18.pdb

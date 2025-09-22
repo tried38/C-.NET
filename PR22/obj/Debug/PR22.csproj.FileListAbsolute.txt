@@ -1,0 +1,13 @@
+D:\C#.NET\PR22\bin\Debug\PR22.exe.config
+D:\C#.NET\PR22\bin\Debug\PR22.exe
+D:\C#.NET\PR22\bin\Debug\PR22.pdb
+D:\C#.NET\PR22\obj\Debug\PR22.csproj.AssemblyReference.cache
+D:\C#.NET\PR22\obj\Debug\PR22.Form1.resources
+D:\C#.NET\PR22\obj\Debug\PR22.Properties.Resources.resources
+D:\C#.NET\PR22\obj\Debug\PR22.csproj.GenerateResource.cache
+D:\C#.NET\PR22\obj\Debug\PR22.csproj.CoreCompileInputs.cache
+D:\C#.NET\PR22\obj\Debug\PR22.exe
+D:\C#.NET\PR22\obj\Debug\PR22.pdb
+D:\C#.NET\PR22\bin\Debug\maletin.dll
+D:\C#.NET\PR22\bin\Debug\maletin.pdb
+D:\C#.NET\PR22\obj\Debug\PR22.csproj.Up2Date

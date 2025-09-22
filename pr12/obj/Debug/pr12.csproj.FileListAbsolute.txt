@@ -1,0 +1,7 @@
+D:\C#.NET\pr12\bin\Debug\pr12.exe.config
+D:\C#.NET\pr12\bin\Debug\pr12.exe
+D:\C#.NET\pr12\bin\Debug\pr12.pdb
+D:\C#.NET\pr12\obj\Debug\pr12.csproj.AssemblyReference.cache
+D:\C#.NET\pr12\obj\Debug\pr12.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr12\obj\Debug\pr12.exe
+D:\C#.NET\pr12\obj\Debug\pr12.pdb

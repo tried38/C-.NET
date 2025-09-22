@@ -1,0 +1,7 @@
+D:\C#.NET\pr06\bin\Debug\pr06.exe.config
+D:\C#.NET\pr06\bin\Debug\pr06.exe
+D:\C#.NET\pr06\bin\Debug\pr06.pdb
+D:\C#.NET\pr06\obj\Debug\pr06.csproj.AssemblyReference.cache
+D:\C#.NET\pr06\obj\Debug\pr06.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr06\obj\Debug\pr06.exe
+D:\C#.NET\pr06\obj\Debug\pr06.pdb

@@ -1,0 +1,7 @@
+D:\C#.NET\pr_01\treygolnik\bin\Debug\treygolnik.exe.config
+D:\C#.NET\pr_01\treygolnik\bin\Debug\treygolnik.exe
+D:\C#.NET\pr_01\treygolnik\bin\Debug\treygolnik.pdb
+D:\C#.NET\pr_01\treygolnik\obj\Debug\treygolnik.csproj.AssemblyReference.cache
+D:\C#.NET\pr_01\treygolnik\obj\Debug\treygolnik.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr_01\treygolnik\obj\Debug\treygolnik.exe
+D:\C#.NET\pr_01\treygolnik\obj\Debug\treygolnik.pdb

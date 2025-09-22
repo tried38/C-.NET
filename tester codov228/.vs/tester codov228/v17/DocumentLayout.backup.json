@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#.NET\\tester codov228\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126B1942-EAF4-4E7D-921A-D17C6E7A9202}|tester codov228.csproj|d:\\c#.net\\tester codov228\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126B1942-EAF4-4E7D-921A-D17C6E7A9202}|tester codov228.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C7A5BF-C1D9-4EC3-8986-F8A59C32399E}|..\\nomer4pr04\\nomer4pr04.csproj|d:\\c#.net\\nomer4pr04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE124833-849E-4CBF-9899-0161E5700924}|..\\zadanie2\\zadanie2.csproj|d:\\c#.net\\zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F30EF27-D5FF-4BA6-A2B8-09BE2A5A1877}|..\\test1337\\test1337.csproj|d:\\c#.net\\test1337\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\tester codov228\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#.NET\\tester codov228\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:39:49.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\nomer4pr04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\nomer4pr04\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\nomer4pr04\\Program.cs",
+              "RelativeToolTip": "..\\nomer4pr04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:09:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\zadanie2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\zadanie2\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\zadanie2\\Program.cs",
+              "RelativeToolTip": "..\\zadanie2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:43:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\test1337\\Program.cs",
+              "RelativeDocumentMoniker": "..\\test1337\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\test1337\\Program.cs",
+              "RelativeToolTip": "..\\test1337\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:36:23.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

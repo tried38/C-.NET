@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\pr02_var18\pr02_var18\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\user\Downloads\pr02_var18\pr02_var18\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\user\Downloads\pr02_var18\pr02_var18\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\user\Downloads\pr02_var18\pr02_var18\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\pr02_var18\pr02_var18\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\pr02_var18\pr02_var18\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\user\Downloads\pr02_var18\pr02_var18\ConsoleApp1\obj\Release\ConsoleApp1.pdb

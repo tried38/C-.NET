@@ -1,0 +1,7 @@
+D:\C#.NET\pr13\obj\Debug\pr13.csproj.AssemblyReference.cache
+D:\C#.NET\pr13\obj\Debug\pr13.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr13\bin\Debug\pr13.exe.config
+D:\C#.NET\pr13\bin\Debug\pr13.exe
+D:\C#.NET\pr13\bin\Debug\pr13.pdb
+D:\C#.NET\pr13\obj\Debug\pr13.exe
+D:\C#.NET\pr13\obj\Debug\pr13.pdb

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#.NET\\pr_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD37E9B-4C0D-4D36-A408-0B41AF5ADD57}|pr_01\\pr_01.csproj|d:\\c#.net\\pr_01\\pr_01\\ploshad_poverhnosti_cilindra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD37E9B-4C0D-4D36-A408-0B41AF5ADD57}|pr_01\\pr_01.csproj|solutionrelative:pr_01\\ploshad_poverhnosti_cilindra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58A9D2D-BE36-4143-9279-E4A049A6E396}|treygolnik\\treygolnik.csproj|D:\\C#.NET\\pr_01\\treygolnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58A9D2D-BE36-4143-9279-E4A049A6E396}|treygolnik\\treygolnik.csproj|solutionrelative:treygolnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC675B42-712D-4A9A-B913-C8BE386E56A0}|kvadrat\\kvadrat.csproj|D:\\C#.NET\\pr_01\\kvadrat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC675B42-712D-4A9A-B913-C8BE386E56A0}|kvadrat\\kvadrat.csproj|solutionrelative:kvadrat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\pr_01\\treygolnik\\Program.cs",
+              "RelativeDocumentMoniker": "treygolnik\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\pr_01\\treygolnik\\Program.cs",
+              "RelativeToolTip": "treygolnik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:13:08.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ploshad_poverhnosti_cilindra.cs",
+              "DocumentMoniker": "D:\\C#.NET\\pr_01\\pr_01\\Ploshad_poverhnosti_cilindra.cs",
+              "RelativeDocumentMoniker": "pr_01\\Ploshad_poverhnosti_cilindra.cs",
+              "ToolTip": "D:\\C#.NET\\pr_01\\pr_01\\Ploshad_poverhnosti_cilindra.cs",
+              "RelativeToolTip": "pr_01\\Ploshad_poverhnosti_cilindra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:13:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\pr_01\\kvadrat\\Program.cs",
+              "RelativeDocumentMoniker": "kvadrat\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\pr_01\\kvadrat\\Program.cs",
+              "RelativeToolTip": "kvadrat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:06:32.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

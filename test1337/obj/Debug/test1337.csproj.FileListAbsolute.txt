@@ -1,0 +1,7 @@
+D:\C#.NET\test1337\bin\Debug\test1337.exe.config
+D:\C#.NET\test1337\bin\Debug\test1337.exe
+D:\C#.NET\test1337\bin\Debug\test1337.pdb
+D:\C#.NET\test1337\obj\Debug\test1337.csproj.AssemblyReference.cache
+D:\C#.NET\test1337\obj\Debug\test1337.csproj.CoreCompileInputs.cache
+D:\C#.NET\test1337\obj\Debug\test1337.exe
+D:\C#.NET\test1337\obj\Debug\test1337.pdb

@@ -1,0 +1,7 @@
+D:\C#.NET\mathepta\bin\Debug\mathepta.exe.config
+D:\C#.NET\mathepta\bin\Debug\mathepta.exe
+D:\C#.NET\mathepta\bin\Debug\mathepta.pdb
+D:\C#.NET\mathepta\obj\Debug\mathepta.csproj.AssemblyReference.cache
+D:\C#.NET\mathepta\obj\Debug\mathepta.csproj.CoreCompileInputs.cache
+D:\C#.NET\mathepta\obj\Debug\mathepta.exe
+D:\C#.NET\mathepta\obj\Debug\mathepta.pdb

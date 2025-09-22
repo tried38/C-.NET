@@ -1,0 +1,7 @@
+D:\C#.NET\pr_01\pr_01\obj\Debug\pr_01.csproj.AssemblyReference.cache
+D:\C#.NET\pr_01\pr_01\obj\Debug\pr_01.csproj.CoreCompileInputs.cache
+D:\C#.NET\pr_01\pr_01\bin\Debug\pr_01.exe.config
+D:\C#.NET\pr_01\pr_01\bin\Debug\pr_01.exe
+D:\C#.NET\pr_01\pr_01\bin\Debug\pr_01.pdb
+D:\C#.NET\pr_01\pr_01\obj\Debug\pr_01.exe
+D:\C#.NET\pr_01\pr_01\obj\Debug\pr_01.pdb

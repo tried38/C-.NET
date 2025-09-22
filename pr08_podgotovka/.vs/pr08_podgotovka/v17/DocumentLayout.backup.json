@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#.NET\\pr08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8148BC5-C59C-4849-9D9D-652BD114EE12}|..\\TAsk2\\TAsk2.csproj|d:\\c#.net\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB17B3-8530-42DF-B4F0-459D113C28BE}|..\\task1\\task1.csproj|d:\\c#.net\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB763C-D914-4958-B7A1-0A4E388A8FA5}|pr08.csproj|d:\\c#.net\\pr08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB763C-D914-4958-B7A1-0A4E388A8FA5}|pr08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D8F076-01DB-4F7D-9B80-EE1E8023F6A8}|..\\fwefwefwefwef\\fwefwefwefwef.csproj|d:\\c#.net\\fwefwefwefwef\\efdfsdfsdfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\TAsk2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TAsk2\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\TAsk2\\Program.cs",
+              "RelativeToolTip": "..\\TAsk2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:36:37.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\task1\\Program.cs",
+              "ToolTip": "D:\\C#.NET\\task1\\Program.cs",
+              "RelativeToolTip": "..\\task1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:22:17.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "efdfsdfsdfs.cs",
+              "DocumentMoniker": "D:\\C#.NET\\fwefwefwefwef\\efdfsdfsdfs.cs",
+              "RelativeDocumentMoniker": "..\\fwefwefwefwef\\efdfsdfsdfs.cs",
+              "ToolTip": "D:\\C#.NET\\fwefwefwefwef\\efdfsdfsdfs.cs",
+              "RelativeToolTip": "..\\fwefwefwefwef\\efdfsdfsdfs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:09:39.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET\\pr08\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#.NET\\pr08\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:06:16.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

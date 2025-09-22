@@ -1,0 +1,6 @@
+D:\C#.NET\maletin\bin\Debug\maletin.dll
+D:\C#.NET\maletin\bin\Debug\maletin.pdb
+D:\C#.NET\maletin\obj\Debug\maletin.csproj.AssemblyReference.cache
+D:\C#.NET\maletin\obj\Debug\maletin.csproj.CoreCompileInputs.cache
+D:\C#.NET\maletin\obj\Debug\maletin.dll
+D:\C#.NET\maletin\obj\Debug\maletin.pdb
