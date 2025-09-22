@@ -1,0 +1,14 @@
+C:\Users\student247\source\repos\PR11\bin\Debug\PR11.exe.config
+C:\Users\student247\source\repos\PR11\bin\Debug\PR11.exe
+C:\Users\student247\source\repos\PR11\bin\Debug\PR11.pdb
+C:\Users\student247\source\repos\PR11\obj\Debug\var18.csproj.AssemblyReference.cache
+C:\Users\student247\source\repos\PR11\obj\Debug\var18.csproj.CoreCompileInputs.cache
+C:\Users\student247\source\repos\PR11\obj\Debug\PR11.exe
+C:\Users\student247\source\repos\PR11\obj\Debug\PR11.pdb
+C:\Users\user\Desktop\PR11 (1)\PR11\bin\Debug\PR11.exe.config
+C:\Users\user\Desktop\PR11 (1)\PR11\bin\Debug\PR11.exe
+C:\Users\user\Desktop\PR11 (1)\PR11\bin\Debug\PR11.pdb
+C:\Users\user\Desktop\PR11 (1)\PR11\obj\Debug\var18.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PR11 (1)\PR11\obj\Debug\var18.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PR11 (1)\PR11\obj\Debug\PR11.exe
+C:\Users\user\Desktop\PR11 (1)\PR11\obj\Debug\PR11.pdb
