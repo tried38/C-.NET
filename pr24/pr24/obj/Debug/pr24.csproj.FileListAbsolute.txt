@@ -1,0 +1,12 @@
+C:\Users\student247\source\repos\pr24\pr24\bin\Debug\pr24.exe.config
+C:\Users\student247\source\repos\pr24\pr24\bin\Debug\pr24.exe
+C:\Users\student247\source\repos\pr24\pr24\bin\Debug\pr24.pdb
+C:\Users\student247\source\repos\pr24\pr24\bin\Debug\ClassLibrary1.dll
+C:\Users\student247\source\repos\pr24\pr24\bin\Debug\ClassLibrary2.dll
+C:\Users\student247\source\repos\pr24\pr24\bin\Debug\ClassLibrary1.pdb
+C:\Users\student247\source\repos\pr24\pr24\bin\Debug\ClassLibrary2.pdb
+C:\Users\student247\source\repos\pr24\pr24\obj\Debug\pr24.csproj.AssemblyReference.cache
+C:\Users\student247\source\repos\pr24\pr24\obj\Debug\pr24.csproj.CoreCompileInputs.cache
+C:\Users\student247\source\repos\pr24\pr24\obj\Debug\pr24.csproj.CopyComplete
+C:\Users\student247\source\repos\pr24\pr24\obj\Debug\pr24.exe
+C:\Users\student247\source\repos\pr24\pr24\obj\Debug\pr24.pdb
