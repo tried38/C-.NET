@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PR32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55CBBDFC-3067-41F0-BFB0-7310139AE3DB}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\user\\desktop\\pr32\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CBBDFC-3067-41F0-BFB0-7310139AE3DB}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\user\\Desktop\\PR32\\classlibrary1\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\user\\Desktop\\PR32\\classlibrary1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CEDA37-E31F-4CF2-9B8C-93EC4255ECEF}|PR32.csproj|C:\\Users\\user\\Desktop\\PR32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CEDA37-E31F-4CF2-9B8C-93EC4255ECEF}|PR32.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\user\\Desktop\\PR32\\classlibrary1\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\user\\Desktop\\PR32\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F669D33C-D5EC-4316-97AB-16847B0428C5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PR32\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PR32\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:33:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class4.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class4.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class4.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class4.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:59:07.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class3.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class3.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class3.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:30:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class2.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class2.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:30:16.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PR32\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:29:53.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PR32\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PR32\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:28:20.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

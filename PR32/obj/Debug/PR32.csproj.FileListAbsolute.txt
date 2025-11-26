@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\PR32\bin\Debug\PR32.exe.config
+C:\Users\user\Desktop\PR32\bin\Debug\PR32.exe
+C:\Users\user\Desktop\PR32\bin\Debug\PR32.pdb
+C:\Users\user\Desktop\PR32\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\PR32\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\PR32\obj\Debug\PR32.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PR32\obj\Debug\PR32.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PR32\obj\Debug\PR32.csproj.Up2Date
+C:\Users\user\Desktop\PR32\obj\Debug\PR32.exe
+C:\Users\user\Desktop\PR32\obj\Debug\PR32.pdb
